@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunneh
 - 👀 I’m interested in programming,networking,cyber security,system administrator,internet of things
-- 🌱 I’m currently learning HNd in computer science 
+- 🌱 I’m currently learning HND in computer science 
 - 💞️ I’m looking to collaborate on anyone 
 - 📫 How to reach me kunnehfelix@gmail.com
 - 😄 Pronouns: ...
